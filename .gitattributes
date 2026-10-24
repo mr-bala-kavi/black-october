@@ -1,6 +1,7 @@
 # Binary artefacts - never apply line-ending or diff conversion
 *.pdf binary
 *.png binary
+*.gif binary
 
 # Keep data files byte-stable across platforms
 *.csv -text

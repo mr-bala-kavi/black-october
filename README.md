@@ -6,6 +6,13 @@ source record behind the headline claims.
 
 Published by **Kavis Network**.
 
+<p align="center">
+  <img src="preview.gif" width="560"
+       alt="Animated flip-through of the incident report and evidence file: cover, date-by-date chronology, an incident profile, the sector and evidence-label charts, the corrections section, and the evidence records and verification log">
+</p>
+
+<p align="center"><sub>Pages from the two documents in this repository. Frames are rendered directly from the published PDFs.</sub></p>
+
 ---
 
 ## Contents
